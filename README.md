@@ -22,3 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Propoiedades de ListView https://codesinsider.com/flutter-listview-example/?expand_article=1
 - Jorge Meza 6J
+
+- Resultado:
+- ![image](https://github.com/JorgeMeza123/p10-Listacard-6J/assets/143548420/34829b86-2a9e-4e98-a909-5831b4605844)
+
